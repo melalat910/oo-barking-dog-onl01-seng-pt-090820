@@ -7,3 +7,4 @@ fido.name = "Fido"
 fido.name
 end
 fido.barks
+bark!
