@@ -3,9 +3,6 @@ class Dog
   def bark
     puts "woof!"
   end
-def name=(dog_name)
-    this_dogs_name = "fido"
-  end
-end
+fido.name = "fido"
 fido = Dog.new
 fido.bark
