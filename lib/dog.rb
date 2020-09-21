@@ -4,7 +4,7 @@ class Dog
     puts "woof!"
   end
 def name=(dog_name)
-    this_dogs_name = dog_name
+    this_dogs_name = "fido"
   end
 end
 fido = Dog.new
